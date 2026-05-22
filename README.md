@@ -30,7 +30,8 @@
 
 ## 🚀 Установка и первый запуск
 
-1. **Скачайте** `FlashscorePredictor.exe` из раздела [Releases](https://github.com/MaLukyan/Flashscore-Predictor/releases/latest).
+1. **Скачайте** `FlashscorePredictor_Setup.exe
+` из раздела [Releases](https://github.com/MaLukyan/Flashscore-Predictor/releases/latest).
 2. **Запустите** файл от имени администратора (правый клик → «Запуск от имени администратора»).
 3. При первом запуске появится **интерактивный тур**. Следуйте подсказкам.
 4. Нажмите **«🔄 Обновить матчи»** для загрузки расписания на выбранную дату.
